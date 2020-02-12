@@ -7,7 +7,7 @@ namespace Projetoteste
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia");
+            
             Console.WriteLine("Boa tarde, galera");
             Console.WriteLine("modificação para testar o gitremoto");
             Console.ReadLine();
